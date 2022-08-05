@@ -1,0 +1,19 @@
+.div {
+   border-radius: 40px;
+   background: #403f3f;
+   box-shadow: -25px 25px 50px #313030,
+      25px -25px 50px #4f4e4e;
+   position: relative;
+   top: 300px;
+   width: 300px;
+   height: 300px;
+   left: 990px;
+
+   /* From https://css.glass */
+/* From https://css.glass */
+background: rgba(40, 36, 36, 0.1);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(3.7px);
+-webkit-backdrop-filter: blur(3.7px);
+}
